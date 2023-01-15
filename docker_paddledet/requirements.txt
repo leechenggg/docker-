@@ -1,0 +1,6 @@
+-i https://pypi.douban.com/simple opencv-python
+
+fastdeploy-python -f https://www.paddlepaddle.org.cn/whl/fastdeploy.html
+
+
+
